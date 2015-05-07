@@ -12,7 +12,7 @@ we want to build the Segway.
 This includes chosing a electric motor, thinking about gear translations and this sort of stuff.
 
 - mechanics
-  - scaffold
+  - frame
     - maybe aluminum profile (for first tests wood)
   - wheels
   - motor
