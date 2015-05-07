@@ -15,6 +15,8 @@ This includes chosing a electric motor, thinking about gear translations and thi
   - scaffold
     - maybe aluminum profile (for first tests wood)
   - wheels
+  - motor
+    - stepper motor? brushless motor? dunno!
 - electrics / electronics
   - control board / hardware
     - some STM32F4 Discovery board
