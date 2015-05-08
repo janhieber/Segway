@@ -16,12 +16,14 @@ This includes chosing a electric motor, thinking about gear translations and thi
     - maybe aluminum profile (for first tests wood)
   - wheels
   - motor
-    - stepper motor? brushless motor? dunno!
+    - from electric scooter
 - electrics / electronics
   - control board / hardware
     - some STM32F4 Discovery board
+    - gyro
+    - accelerometer
   - battery
-    - small 12V Pb battery from motorcycles...
+    - 2x 12V gel battery
 - informatics
   - regulator
     - build with Matlab Simulink
